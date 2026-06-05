@@ -1,0 +1,62 @@
+{
+  "region": {
+    "top": 550,
+    "left": 1150,
+    "width": 1700,
+    "height": 350
+  },
+  "hotkey": "f9",
+  "auto_detect": false,
+  "normal_regions": {
+    "cr": {
+      "left": 1773,
+      "top": 664,
+      "width": 548,
+      "height": 122
+    },
+    "car": {
+      "left": 2021,
+      "top": 665,
+      "width": 571,
+      "height": 121
+    }
+  },
+  "super_regions": {
+    "col1_cr": {
+      "left": 1180,
+      "top": 651,
+      "width": 437,
+      "height": 138
+    },
+    "col1_car": {
+      "left": 1181,
+      "top": 593,
+      "width": 435,
+      "height": 92
+    },
+    "col2_cr": {
+      "left": 1773,
+      "top": 650,
+      "width": 436,
+      "height": 138
+    },
+    "col2_car": {
+      "left": 1772,
+      "top": 593,
+      "width": 435,
+      "height": 96
+    },
+    "col3_cr": {
+      "left": 2364,
+      "top": 650,
+      "width": 439,
+      "height": 138
+    },
+    "col3_car": {
+      "left": 2364,
+      "top": 593,
+      "width": 436,
+      "height": 103
+    }
+  }
+}
